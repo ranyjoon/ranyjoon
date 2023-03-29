@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+### Projects
+1. [서울시 어린이 환경지수 순위](https://github.com/ranyjoon/Project1)
+2. [재구매율 예측을 통한 구매물품 예측 및 솔루션 제안](https://github.com/ranyjoon/Project2)
+3. [손 엑스레이 분석을 통한 골 연령 및 키 성장 예측](https://github.com/ranyjoon/Project3)
+
+
+
 <!--
 **ranyjoon/ranyjoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
