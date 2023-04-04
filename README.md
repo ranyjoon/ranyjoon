@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱I’m currently learning `Data analysis`, `Machine Learning', 'Deep Learning'
+🌱I’m currently learning `Data analysis`, `Machine Learning`, `Deep Learning`
 
 ### Projects
 1. [서울시 어린이 환경지수 순위](https://github.com/ranyjoon/Project1)
